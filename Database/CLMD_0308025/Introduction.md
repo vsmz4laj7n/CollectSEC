@@ -2,4 +2,4 @@
 
 In early 2025, a deeply disturbing event came to light through obscure online channels, revealing a complex and sensitive case that has since been heavily restricted in public discourse. This incident, originating in Vietnam, involves a violent act with extreme motivations, documented in graphic detail and circulated within private online communities before reaching broader platforms. Due to its sensitive nature and potential for public unrest, the details of this event have been largely suppressed, with efforts to archive related materials on encrypted drives to prevent further dissemination. The case raises significant ethical, psychological, and legal questions, reflecting complex human behaviors and the challenges of regulating digital content. The following documentation is preserved for research purposes, with strict access controls to ensure it remains confidential and is handled with the utmost discretion, as authorities may limit its exposure to avoid societal impact.
 
-> Code: CLMD_0308025
+> Code: `CLMD_0308025`

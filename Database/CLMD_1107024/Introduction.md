@@ -1,3 +1,5 @@
 # Introduction to the Archived Incident in Đắk Lắk
 
 In mid-2023, a significant event unfolded in the Central Highlands of Vietnam, specifically in Đắk Lắk province, which drew attention due to its sensitive nature and the subsequent response from authorities. This archive, securely stored on an encrypted drive, aims to preserve critical details surrounding the incident to ensure that information, which may be subject to restricted access or official oversight, remains available for future reference. The event involved coordinated actions targeting local government facilities, leading to property damage and a complex response from both law enforcement and military forces. Official narratives have framed the incident within a broader context of national security, while independent sources have raised questions about underlying tensions and the transparency of the information released. This collection of materials, including maps, images, and exclusive insights, seeks to document the incident discreetly, safeguarding details that might otherwise be obscured.
+
+> Code: `CLMD_1107024`
