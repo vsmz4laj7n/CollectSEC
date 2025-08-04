@@ -10,18 +10,11 @@ Kho lưu trữ `CollectSEC` là một kho an toàn dành cho các tài liệu nh
 
 ## Cấu trúc Thư mục
 
-Kho lưu trữ được tổ chức với các thư mục riêng cho từng vụ việc, được đặt tên theo mã định danh vụ việc cụ thể, cùng với một thư mục `Language` chứa các tài liệu dịch thuật. Dưới đây là cấu trúc chi tiết:
+Kho lưu trữ được tổ chức với các thư mục riêng cho từng vụ việc, được đặt tên theo mã định danh vụ việc cụ thể, cùng với một thư mục `Language` chứa các tài liệu dịch thuật. 
 
-### CLMD_0308025
+### Database
 
-Thư mục này chứa các tài liệu liên quan đến một vụ án hình sự cực kỳ nhạy cảm xảy ra tại miền Bắc Việt Nam vào đầu năm 2025. Các tài liệu bao gồm siêu dữ liệu, các tài liệu giới thiệu bằng nhiều ngôn ngữ và các kho lưu trữ mã hóa bằng VeraCrypt.
-
-- **ArchiveORG.txt**: Siêu dữ liệu được định dạng cho việc tải lên tiềm năng trên Archive.org, nêu chi tiết bối cảnh, chủ đề và các hạn chế truy cập của vụ việc.
-- **clmd_0308025.hc**: Một bộ chứa mã hóa VeraCrypt chứa các tài liệu nguồn chính, bao gồm video, hình ảnh và nhật ký trò chuyện liên quan đến vụ việc.
-- **Giới thiệu.md**: Tài liệu giới thiệu bằng tiếng Việt, cung cấp cái nhìn tổng quan chi tiết về vụ việc cho các nhà nghiên cứu được ủy quyền, bao gồm động cơ, dòng thời gian và các cân nhắc đạo đức.
-- **hd_clmd_0308025.hc**: Một bộ chứa mã hóa VeraCrypt độ phân giải cao với các tài liệu bổ sung có độ phân giải cao liên quan đến vụ việc.
-- **hd_clmd_0308025.hc.tar.xz**: Một kho lưu trữ nén của bộ chứa độ phân giải cao để lưu trữ và truyền tải hiệu quả.
-- **Introduction.md**: Tài liệu giới thiệu bằng tiếng Anh, phản ánh nội dung của "Giới thiệu.md", cung cấp cái nhìn tổng quan chi tiết cho các nhà nghiên cứu nói tiếng Anh.
+Thư mục này chứa các thư mục con được đặt tên theo mã định danh vụ việc, mỗi thư mục bao gồm các tài liệu liên quan như siêu dữ liệu, tài liệu giới thiệu bằng nhiều ngôn ngữ và các kho lưu trữ mã hóa bằng VeraCrypt.
 
 ### Language
 
@@ -31,7 +24,7 @@ Thư mục này chứa các tài liệu dịch thuật để hỗ trợ truy c�
 
 ## Truy cập và Sử dụng
 
-**Cảnh báo**: Nội dung trong kho lưu trữ này rất nhạy cảm và chứa tài liệu đồ họa liên quan đến một vụ án hình sự có hành vi cực đoan. Quyền truy cập bị hạn chế đối với nhân sự được ủy quyền có thông tin xác thực hợp lệ cho các bộ chứa VeraCrypt. Việc phân phối hoặc chia sẻ công khai mà không được phép là nghiêm cấm và có thể vi phạm các tiêu chuẩn pháp lý và đạo đức.
+**Cảnh báo**: Nội dung trong kho lưu trữ này rất nhạy cảm và chứa tài liệu đồ họa liên quan đến các vụ án hình sự có hành vi cực đoan. Quyền truy cập bị hạn chế đối với nhân sự được ủy quyền có thông tin xác thực hợp lệ cho các bộ chứa VeraCrypt. Việc phân phối hoặc chia sẻ công khai mà không được phép là nghiêm cấm và có thể vi phạm các tiêu chuẩn pháp lý và đạo đức.
 
 Để truy cập các tài liệu mã hóa (`*.hc` và `*.hc.tar.xz`), người dùng phải:
 1. Lấy mật khẩu hoặc khóa giải mã từ quản trị viên kho lưu trữ.
@@ -40,7 +33,7 @@ Thư mục này chứa các tài liệu dịch thuật để hỗ trợ truy c�
 
 ## Mục đích
 
-Kho lưu trữ này đóng vai trò là một nơi lưu trữ an toàn cho nghiên cứu học thuật và báo chí về các vụ án hình sự hiếm gặp, đặc biệt là những vụ liên quan đến hành vi cực đoan tự nguyện và việc phát tán số. Thư mục `CLMD_0308025` ghi lại một vụ việc độc đáo từ Việt Nam, cung cấp cái nhìn sâu sắc về động cơ tâm lý, điều tra số và các thách thức trong việc quản lý nội dung nhạy cảm trong bối cảnh số toàn cầu hóa.
+Kho lưu trữ này đóng vai trò là một nơi lưu trữ an toàn cho nghiên cứu học thuật và báo chí về các vụ án hình sự hiếm gặp, đặc biệt là những vụ liên quan đến hành vi cực đoan và việc phát tán số. Nó cung cấp cái nhìn sâu sắc về động cơ tâm lý, điều tra số và các thách thức trong việc quản lý nội dung nhạy cảm trong bối cảnh số toàn cầu hóa.
 
 ## Đóng góp
 
